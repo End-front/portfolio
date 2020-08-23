@@ -5,7 +5,7 @@ _layouts/
 _plugins/
 _sass/
 /assets/
-work/
+/work/
 index.md
 _config.yml
 .jekyll-cache/
