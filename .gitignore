@@ -9,5 +9,3 @@ _sass/
 index.md
 _config.yml
 .jekyll-cache/
-docs/
-!docs/**
