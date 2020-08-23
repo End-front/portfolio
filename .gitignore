@@ -1,0 +1,11 @@
+_data/
+_drafts/
+_includes/
+_layouts/
+_plugins/
+_sass/
+/assets/
+work/
+index.md
+_config.yml
+.jekyll-cache/
