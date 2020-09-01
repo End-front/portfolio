@@ -20,7 +20,7 @@ if (cardPortfolio) {
     let text = wrapper.querySelector('p')
     text.innerText = overflowCircle(text.innerText, 150)
   }
-  window.onresize = async function () {
+  window.onresize = function () {
     for (let index = 0; index < cardPortfolio.length; index++) {
       const element = cardPortfolio[index];
       const wrapper = element.querySelector('.grid__card__wrapper')
